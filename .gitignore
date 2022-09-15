@@ -1,0 +1,7 @@
+.env
+node_modules
+build/contracts
+contracts/artifacts
+TestTraitDouble.json
+lengths.js
+**/.DS_Store

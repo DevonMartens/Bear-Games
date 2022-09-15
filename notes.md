@@ -1,0 +1,3 @@
+- [ ] MINT_PRICE in Bear.sol on line 25 has been temporarily set to 0.001 ether for testnet - change back
+- [ ] MINIMUM_TO_EXIT in Forest.sol line 52 has been temporarily set to 1 minute for testing - change back
+- [ ] ERC721 contract modified to original Open Zeppelin's - may need to change back to original please see [here(https://twitter.com/not__stoops/status/1462640422790914052?s=20)]
